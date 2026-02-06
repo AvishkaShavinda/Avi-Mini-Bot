@@ -1,0 +1,22 @@
+{
+  "name": "avi-mini-bot",
+  "version": "1.0.0",
+  "description": "Lightweight Mini Bot with Switch Case and Pairing Code",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Avishka",
+  "license": "MIT",
+  "dependencies": {
+    "baileys": "latest",
+    "@hapi/boom": "^10.0.0",
+    "pino": "^8.8.0",
+    "readline": "^1.1.0",
+    "chalk": "^4.1.2",
+    "moment-timezone": "^0.5.43",
+    "node-cache": "^5.1.2"
+  }
+}
