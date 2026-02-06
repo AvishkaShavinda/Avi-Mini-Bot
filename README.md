@@ -1,0 +1,2 @@
+# Avi-Mini-Bot
+This is whatsapp automate Bot creayed by Avishka shavinda
